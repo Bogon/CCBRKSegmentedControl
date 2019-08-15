@@ -1,0 +1,16 @@
+PODS:
+  - CCBRKSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - CCBRKSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  CCBRKSegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCBRKSegmentedControl: 0411963661d9041174b84533c49cf780a6091f3f
+
+PODFILE CHECKSUM: 41ee69465e986295769eec2aac36b7937cff5e05
+
+COCOAPODS: 1.7.4
